@@ -1,7 +1,7 @@
 # Asteroid-Adventures
 
 ## Collaborators
-Michelle Domagala-Tang: https://github.com/MichelleDomagala-Tang
+Michelle Domagala-Tang: https://github.com/MichelleDomagala-Tang , 
 Jarrod Colwell: https://github.com/JarrodColwell
 
 ## Inspiration
