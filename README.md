@@ -1,5 +1,8 @@
 # Asteroid-Adventures
 
+## Collaborators
+
+
 ## Inspiration
 With recent developments in Virtual Reality, our team wanted to gain hands-on experience with some of its new technology. Using Leap Motion hardware and Unity, our team built a Desktop Game where the user controls the layer using hand motions. Our application helps to merge the virtual with reality in an interactive game.
 
